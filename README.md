@@ -38,7 +38,7 @@ The database contains several tables, including:
 
 Below is the Entity-Relationship Diagram (ERD) for the Music Store database:
 
-![Music Store ERD](blob:https://github.com/cd557553-4e82-4fd7-b132-d767bac91483)
+![Music Store ERD](MusicDatabaseSchema.png)
 
 > Make sure to download or generate the ERD (if not already included) using pgAdmin or any ERD tool.
 
